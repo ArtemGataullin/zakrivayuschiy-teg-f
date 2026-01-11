@@ -16,7 +16,6 @@
   padding: 12.5px 37px;
 }
 
-
 .button__text {
   position: relative;
   z-index: 1;
@@ -101,17 +100,16 @@
   transform-origin: center;
 }
 
-
 .core {
   transition: fill 0.3s linear 0.03s;
 }
 
-.like-icon:hover .core{
+.like-icon:hover .core {
   fill: var(--svg-hover-color-accent);
   transition-delay: 0s;
 }
 
-.like-icon:active .core{
+.like-icon:active .core {
   fill: var(--animation-fill-color);
   transition-delay: 0s;
 }
@@ -125,7 +123,7 @@
   transition: fill 0.1s linear 0s;
 }
 
-.like-icon:hover .contour{
+.like-icon:hover .contour {
   fill: var(--animation-fill-color);
   transition-delay: 0.06s;
   transition-duration: 0.3s;
@@ -135,12 +133,12 @@
   transition: fill 0.3s linear 0s;
 }
 
-.like-icon:hover .main-body{
+.like-icon:hover .main-body {
   fill: var(--svg-hover-color-accent);
   transition-delay: 0.05s;
 }
 
-.like-icon:active .main-body{
+.like-icon:active .main-body {
   fill: var(--animation-fill-color);
   transition-delay: 0.05s;
 }
