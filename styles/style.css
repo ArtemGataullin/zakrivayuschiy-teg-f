@@ -203,7 +203,7 @@
 
 .card__title {
   padding: 4px 10px;
-  font-weight: var(--title-text-weight);
+  font-variation-settings: "wgnt" var(--title-text-weight);
   font-size: inherit;
   line-height: 22px;
 }
@@ -282,7 +282,7 @@
 }
 
 .card__paragraf {
-  font-weight: var(--main-text-weight);
+  font-variation-settings: "wgnt" var(--main-text-weight);
   font-size: inherit;
   line-height: 21px;
 }
