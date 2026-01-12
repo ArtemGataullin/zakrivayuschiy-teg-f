@@ -1,6 +1,6 @@
 :root {
   --main-font-famaly: 'Inter-Variable', sans-serif;
-  --accent-font-famaly: 'PresssTART2p', sans-serif;
+  --accent-font-famaly: 'PresssTART2p', fantasy,  sans-serif;
   --main-text-weight: 410;
   --title-text-weight: 715;
   --main-text-size: 18px;
